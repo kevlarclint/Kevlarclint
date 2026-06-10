@@ -1,58 +1,69 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0d1117&text=CLINT%20LORENZO&fontSize=70&fontColor=00F5FF&animation=fadeIn" width="100%" />
 
-  <p align="center">
-    <strong>Full-Stack Developer</strong><br />
-    Specializing in lightweight desktop applications and structured web systems.
-  </p>
+# C L I N T &nbsp; L O R E N Z O
 
-  <p align="center">
-    <a href="https://github.com/KevClint"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    <a href="mailto:kevlarclint@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+<code>Front-End Engineer</code> ⸰ <code>UI/UX Architect</code> ⸰ <code>Cross-Platform Developer</code>
 
-### Core Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,electron,git,github,vscode" />
-</p>
+<br>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://pulselink.rf.gd//GH-Kevclint)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://pulselink.rf.gd//LI-Clintlorenzo)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://pulselink.rf.gd//X-Clixnt)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://pulselink.rf.gd//IG-Kevlarclint)
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://pulselink.rf.gd//FB-Clintlorenzo)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nothingnesssq@gmail.com)
 
-### Featured Projects
-
-**MediaDL**
-*   High-performance media downloader built with **Tauri** and **React**.
-*   Optimized application footprint from 200MB+ to 72MB.
-
-**SnapCam**
-*   Desktop camera interface featuring pro-style manual controls.
-*   Developed for precision image capture workflows.
-
-**GameDock**
-*   Lightweight Windows launcher integrated into the native OS taskbar flow.
-*   Focuses on minimalist resource usage and rapid access.
-
-**InfoBot**
-*   Unified AI dashboard with support for multi-provider model switching.
-*   Implemented local testing via Ollama/Llama 3.2.
-
----
-
-### Certifications and Leadership
-*   **ICT Club President** | Zamboanga del Sur National High School
-*   **TESDA NC III** | Developing Designs for User Interface
-*   **TESDA NC II** | Computer System Servicing
-*   **Cisco** | JavaScript Essentials & IT Hardware Basics
-
----
-
-### Development Metrics
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KevClint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevClint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Build+well;Ship+clean;Iterate+always" />
+  Building highly performant, accessible web interfaces and native desktop applications.<br> 
+  Bridging the gap between sophisticated design systems and scalable engineering architecture.
 </p>
+
+</div>
+
+---
+
+### // ENGINEERING STACK
+
+*An overview of my core technical implementations, focusing on performance, accessibility, and modern UI state management.*
+
+<br>
+
+#### 01. CORE WEB & SCRIPTING
+| Technology | Implementation & Architecture Focus |
+| :--- | :--- |
+| ![HTML](https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=white) | **Semantic structure, accessible content flow.** |
+| ![CSS](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=white) | **Responsive layouts, spacing systems, visual polish.** |
+| ![SCSS](https://img.shields.io/badge/SCSS_/_SASS-121212?style=for-the-badge&logo=sass&logoColor=white) | **Reusable styling patterns and organized design tokens.** |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=white) | **Interaction, browser logic, and product behavior.** |
+
+<br>
+
+#### 02. FRAMEWORKS & BACKEND
+| Technology | Implementation & Architecture Focus |
+| :--- | :--- |
+| ![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=white) | **Component-driven interfaces and stateful UI patterns.** |
+| ![PHP](https://img.shields.io/badge/PHP-121212?style=for-the-badge&logo=php&logoColor=white) | **Server-side forms, dynamic pages, and lightweight backends.** |
+
+<br>
+
+#### 03. CROSS-PLATFORM DESKTOP
+| Technology | Implementation & Architecture Focus |
+| :--- | :--- |
+| ![Electron](https://img.shields.io/badge/Electron.js-121212?style=for-the-badge&logo=electron&logoColor=white) | **Desktop applications utilizing standard web technologies.** |
+| ![Tauri](https://img.shields.io/badge/Tauri.js_2.0-121212?style=for-the-badge&logo=tauri&logoColor=white) | **Cross-platform desktop delivery with a smaller, rust-based runtime.** |
+
+---
+
+### // CONTACT INITIATION
+
+I am currently open to architectural discussions, front-end optimization challenges, and collaborative software projects. 
+
+▸ **Primary Inbox:** <kbd>nothingnesssq@gmail.com</kbd>  
+▸ **Professional Network:** <kbd>@clintlorenzo</kbd>  
+▸ **Development Hub:** <kbd>@KevClint</kbd>  
+
+<br>
+
+> *"User experience is not an afterthought; it is the fundamental architecture of the product."*

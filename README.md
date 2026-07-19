@@ -9,7 +9,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://pulselink.rf.gd//X-Clintlorenzo)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://pulselink.rf.gd//IG-Kevlarclint)
 [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://pulselink.rf.gd//FB-kevlarclint)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@kevlarclint.indevs.in)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@clintlorenzo.is-a.dev)
 
 ### // SYSTEM_ARCHITECTURE //
 

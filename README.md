@@ -7,8 +7,10 @@
   <img alt="kevclint's GitHub profile" src="dark_mode.svg" />
 </picture>
 
+<br>
 
 <div align="center">
+  
 [![kevlarclint](https://img.shields.io/badge/Kevlarclint-102a43?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevlarclint)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clintlorenzo.is-a.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://pulselink.rf.gd//IG-Kevlarclint)
@@ -16,6 +18,7 @@
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@clintlorenzo.is-a.dev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://pulselink.rf.gd//X-Clintlorenzo)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://pulselink.rf.gd//LI-Clintlorenzo)
+
 </div>
 
 

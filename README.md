@@ -1,4 +1,8 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="kevclint's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=150&text=CLINT%20LORENZO&fontSize=45&fontColor=ffffff&desc=%2F%2F%20FRONT-END%20ENGINEER%20%2F%2F&descSize=16&descColor=888888&animation=fadeIn)
 

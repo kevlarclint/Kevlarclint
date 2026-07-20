@@ -1,0 +1,49 @@
+{
+  "coloredImage": true,
+  "removeBackground": false,
+  "imageScale": 1,
+  "imageOffsetX": 0,
+  "imageOffsetY": 0,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Created", "value": "{{created}}" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Company", "value": "{{company}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "IDE", "value": "VSCode, Neovim" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "Web Dev, Open Source" },
+        { "key": "Hobbies.Hardware", "value": "Coding" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "dev@clintlorenzo.is-a.dev" },
+        { "key": "Website", "value": "https://clintlorenzo.is-a.dev" },
+        { "key": "GitHub", "value": "https://github.com/kevlarclint" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "Pull Requests", "value": "{{prs}}" } },
+      "loc"
+    ]
+  }
+}

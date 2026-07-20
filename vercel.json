@@ -1,0 +1,17 @@
+{
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "npm install",
+  "functions": {
+    "api/**/*.js": {
+      "memory": 256,
+      "maxDuration": 10
+    }
+  },
+  "redirects": [
+    { "source": "/", "destination": "https://github.com/kevlarclint", "permanent": false }
+  ],
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api" }
+  ]
+}

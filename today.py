@@ -5,6 +5,9 @@ import os
 from lxml import etree
 import time
 import hashlib
+from dotenv import load_dotenv
+
+load_dotenv()
 
 HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
 USER_NAME = os.environ['USER_NAME']

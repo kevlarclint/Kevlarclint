@@ -822,9 +822,38 @@ function getDefaultConfig(data) {
     sections: [
       {
         title: `${data.username}@github`,
-        fields: []
+        fields: [
+          { "key": "Name", "value": data.name || data.username },
+          { "key": "Location", "value": data.location || "Earth" },
+          { "key": "Created", "value": data.createdAt },
+          { "key": "Uptime", "value": data.uptime },
+          { "key": "Company", "value": data.company || "" }
+        ]
+      },
+      {
+        fields: [
+          { "key": "Languages", "value": data.topLanguages || "Various" },
+          { "key": "IDE", "value": "VSCode, Neovim" }
+        ]
+      },
+      {
+        title: "- Contact",
+        fields: [
+          { "key": "Email", "value": data.email || "Not public" },
+          { "key": "Website", "value": data.blog || `https://github.com/${data.username}` },
+          { "key": "GitHub", "value": `https://github.com/${data.username}` }
+        ]
       }
-    ]
+    ],
+    stats: {
+      title: "- GitHub Stats",
+      rows: [
+        { left: { key: "Repos", value: String(data.repos) }, right: { key: "Stars", value: String(data.stars) } },
+        { left: { key: "Following", value: String(data.following) }, right: { key: "Followers", value: String(data.followers) } },
+        { left: { key: "Commits", value: data.commits }, right: { key: "Forks", value: String(data.forks) } },
+        "loc"
+      ]
+    }
   };
 }
 

@@ -8,10 +8,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/kevlarclint/neofetch-profile">
+  <a href="https://github.com/kevlarclint">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=kevlarclint&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkevlarclint%2Fneofetch-profile%2Fmain%2Fpublic%2Fconfig.json">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=kevlarclint&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkevlarclint%2Fneofetch-profile%2Fmain%2Fpublic%2Fconfig.json">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=kevlarclint&theme=github-dark">
+      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=kevlarclint&theme=github-light">
     </picture>
   </a>
 </p>

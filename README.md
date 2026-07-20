@@ -1,18 +1,13 @@
-
-
-<p align="center">
-  <a href="https://github.com/kevlarclint">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=kevlarclint&theme=github-dark">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=kevlarclint&theme=github-light">
-    </picture>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="kevlarclint's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <div align="center">
   
 <br>
-  
+
 [![kevlarclint](https://img.shields.io/badge/Kevlarclint-102a43?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevlarclint)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clintlorenzo.is-a.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://pulselink.rf.gd//IG-Kevlarclint)
@@ -22,12 +17,3 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://pulselink.rf.gd//LI-Clintlorenzo)
 
 </div>
-
-
-
-
-
-
-
-
-
